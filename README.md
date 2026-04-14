@@ -8,14 +8,13 @@
 </p>
 Bu proje, bireylerin sağlık bilgilerini kullanarak sigorta ücretini (`charges`) tahmin eden bir makine öğrenmesi uygulamasıdır.  
 Veri analizi, ön işleme, model eğitimi ve Streamlit ile etkileşimli tahmin arayüzü tek bir akışta birleştirilmiştir.
----
+
 ## Proje Özeti
 - Sağlık sigortası veri seti üzerinde keşifsel veri analizi (EDA) yapıldı.
 - Eksik/tekrarlı/veri tutarlılığı kontrolleri gerçekleştirildi.
 - Kategorik değişkenler sayısal formata dönüştürüldü.
 - `RandomForestRegressor` ile tahmin modeli kuruldu.
 - Model, kullanıcıdan alınan verilerle canlı tahmin yapabilen bir Streamlit uygulamasına taşındı.
----
 ## Kullanılan Teknolojiler
 - **Python**
 - **Pandas**
