@@ -33,7 +33,7 @@ Data analysis, preprocessing, model training, and an interactive Streamlit inter
 - Model outputs were interpreted using the `Actual vs Predicted` visualization.
 
 > An $R^2 = 0.86$ indicates that the model explains a large portion of the variance in the target variable.
-
+<img width="709" height="812" alt="Ekran görüntüsü 2026-04-14 132136" src="https://github.com/user-attachments/assets/eee9462d-cf1a-45b3-8c16-27e9d0aea1e5" />
 ## Project Structure
 
 ```text
